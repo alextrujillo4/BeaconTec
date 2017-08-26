@@ -3,147 +3,21 @@
 
     <item
         is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/deffedfd0a2576848531a2f6fdcfedb68d3c7661/output/jars/classes.jar"
+        jar="/Users/alextrujillo/Desktop/BeaconTec/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
-        sha1="fcae52a60bc07924d370b4d376116cd8f8581f54">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_7b8a4ec70e3c97893bc75fdc8461173a382264e4/classes.dex" />
+        sha1="e7537ff45ede7ae43ca6620c4f390cb644746dae">
+        <dex dex="/Users/alextrujillo/Desktop/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_61e720d1bb20649cee39a4382c8fd03c0e20491f/classes.dex" />
     </item>
     <item
         is-multidex="true"
-        jar="/Users/alextrujillo/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/26.0.0-alpha1/support-annotations-26.0.0-alpha1.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="023ee503b631f69511e335a061ea008f8da60f40">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-26.0.0-alpha1_5b5d1a6a1dcd7054598bb6a522fede39dc9a0d2d/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/603f5d70cfd0f8fcae97bf54ecfcfa157669dceb/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="88246166d5afb106f532f6e6deae683c66b42c89">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0872f41f8939d88596e9cbe9b1c3604e83d46946/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/31d3532666fdcecf2e23286bff8275607f284322/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_f2c8e47d79724541eb308c7b6c0a8977e5ef6cff/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/0dda57b7acd80b3c161b74a6aab9cc9e0257cf3c/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_72bee56a7873b84986f873c3f6d470cd8f261605/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/2d1ca2412dcc27aebfbdfb998409b2e9df88866a/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_aa21e2d9fac40d41539c4b53512b5d1365a83008/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jar="/Users/alextrujillo/Desktop/BeaconTec/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
         jumboMode="true"
         optimize="true"
         revision="26.0.1"
         sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_3cb1d06ca9177cc3ec47d660ea0e266d7a5086dc/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/8d678f2fb3f68a23e20f0c2ae75acef31336588e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="8df0e365e40beb151bc42dee20817721a6cab7b0">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_128e868c942ab458f2ae978b6e6cbec4886a5350/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/5dff45604076b6c41c7c25f13dd6e9f41eee3c08/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="9935891f23923f39d002087085d9696568a9f657">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a8919b81f9b6b1c7f0cb2de4e0d2f36f5a05aa9e/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/8a4585b4d8a20e9a855ac69f66cace14d835fb81/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="2e92aa0163544a804a0b34f169ca61801770839a">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_1872c1c6b5e56b3c4573d65d39363c59cd24563a/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="85d36a21f119efc2373ad57ad4ce4d0438963d60">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_5a81af31e1128e0e32247becedd61fb65d89afd8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/cbee444e97187025231cc75329f1924334fd0375/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d5325ef62db546851c60c23617bc3b7da54232a8/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/4d6af6ab7af5bba9a60907134fd24c28a601f15e/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="fcd01fd11233459f546c437ec927e9b61bf7caf1">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2551c450d2ad9e32dd91938ffab11bf2daa59490/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/4d245e2871c72703642b8a48d09939322cb9f6bc/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="952944218ecedea1554a513dec0c14d570642843">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b852c677790ea721c1333cfcd3ad034a61fa2eb4/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/9f137479701d2a295e10a9b09565ccd88dae0ca5/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="47471eb19df288158b00b8d9cfa41bce7373f5cc">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0884e073ef8223b280f8e7d91e03796faa638194/classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="/Users/alextrujillo/.android/build-cache/5bc59755263e164c51acff4222cb855ce5167647/output/jars/classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="26.0.1"
-        sha1="18d31838aa4fcc768a8a0516e22cc13b94655d89">
-        <dex dex="/Users/alextrujillo/Downloads/android-samples-master/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_049945f7fec2d31a121000f61f1a7521cc04755c/classes.dex" />
+        <dex dex="/Users/alextrujillo/Desktop/BeaconTec/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_59bc6efb9b685734cfcab81f9443400bf1423ea3/classes.dex" />
     </item>
 
 </items>
